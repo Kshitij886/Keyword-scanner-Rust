@@ -1,0 +1,13 @@
+[2026-01-16 08:01:12] INFO  Server started successfully
+[2026-01-16 08:01:15] INFO  Listening on port 8080
+[2026-01-16 08:01:20] ERROR Failed to connect to database
+[2026-01-16 08:01:21] INFO  Retrying connection
+[2026-01-16 08:01:25] WARN  Connection attempt slow
+[2026-01-16 08:01:30] ERROR Database connection timeout
+[2026-01-16 08:01:35] INFO  Fallback cache enabled
+[2026-01-16 08:01:40] DEBUG Cache hit for key user:42
+[2026-01-16 08:01:45] ERROR Failed to load user profile
+[2026-01-16 08:01:50] INFO  Request handled successfully
+[2026-01-16 08:01:55] WARN  High memory usage detected
+[2026-01-16 08:02:00] ERROR Out of memory while processing request
+[2026-01-16 08:02:05] INFO  Graceful shutdown initiated

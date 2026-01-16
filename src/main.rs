@@ -28,7 +28,7 @@ impl Arguments {
             return Ok(Arguments { threads: 4, file_path: f.clone(), keyword: args[2].clone() });
         } else {
             println!(
-                "Usage: -j to select how many threads you want 
+                "Usage: 
                     \r\n    -h or -help to show this help message
                 "
             );
